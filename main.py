@@ -7,7 +7,7 @@ itself. Nothing else is written.
 
 import os
 
-REMARK = "We have been riding together for three floors and neither of us has pressed a button. I respect the commitment to nowhere."
+REMARK = "So... did you also pretend to run a firmware update in the lobby just so you wouldn't have to share the express car?"
 
 
 def _check(text):
